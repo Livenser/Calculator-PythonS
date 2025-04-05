@@ -77,6 +77,6 @@ cd advanced-scientific-calculator</code></pre>
 
 <!-- Footer -->
 <div align="center">
-  <p style="font-size: 1.2em;">Dibuat dengan ❤️ oleh <strong>Aruvu</strong> | Kelas 12 SMK</p>
+  <p style="font-size: 1.2em;">Dibuat dengan ❤️ oleh <strong>Aruvu</strong> |</p>
   <p style="font-size: 1em; color: gray;">Yuk cobain dan rasain sensasi ngitung yang beda dari biasanya!</p>
 </div>
